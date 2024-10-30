@@ -1,0 +1,45 @@
+#cr-tab-settings-container .cr-notice {
+	max-width: none;
+}
+
+.cr-tab-settings {
+	margin: 44px 0 0;
+}
+
+.cr-tab-settings p {
+	margin: 0;
+}
+
+.cr-tab-settings hr {
+	display: block;
+	border: 0;
+	border-top: 1px solid #AAAAAA;
+	margin: 24px 0;
+}
+
+.cr-tab-settings table fieldset {
+	margin: 8px 0 0 0;
+}
+
+.cr-tab-settings table fieldset:first-child {
+	margin: 0;
+}
+
+.cr-tab-settings table fieldset label {
+	font-family: SFProText-Semibold;
+	font-size: 14px;
+	color: #23282D;
+}
+
+table fieldset p.description {
+	margin: 0 0 0 24px;
+}
+
+.cr-tab-settings table fieldset p.description {
+	font-family: SFProText-Regular;
+	font-size: 13px;
+	font-style: normal;
+	color: #3C434A;
+	line-height: 18px;
+	/*margin: 0 0 0 24px;*/
+}

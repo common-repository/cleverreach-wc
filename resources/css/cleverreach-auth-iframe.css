@@ -1,0 +1,22 @@
+iframe#cr-iframe {
+	width: 100%;
+	height: 100%;
+}
+
+.cr-content-window-wrapper .cr-content-window {
+	padding: 0;
+	border: none;
+	box-shadow: none;
+}
+
+.cr-content-window {
+	height: 620px;
+}
+
+.cr-token-expired-content-window {
+	background-color: #ffffff;
+}
+
+.cr-content-window-wrapper {
+	margin-top: 0;
+}

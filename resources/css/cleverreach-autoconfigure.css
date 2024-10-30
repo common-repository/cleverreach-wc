@@ -1,0 +1,33 @@
+.cr-notice {
+	max-width: none;
+}
+.spinner-big {
+	background-image: url(../images/wp_cr_loader.png);
+	-webkit-background-size: 25px 25px;
+	display: block;
+	background-size: 25px 25px;
+	width: 25px;
+	height: 25px;
+	margin: 2px 5px 15px;
+	-webkit-animation: rotation 2s infinite linear;
+	animation: rotation 2s infinite linear;
+}
+
+p.autoconfig-text {
+	font-family: SFProText-Semibold;
+	font-size: 17px;
+	color: #808080;
+	text-align: center;
+}
+
+.loading-container {
+	margin-top: 10rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.hidden {
+	display: none;
+}

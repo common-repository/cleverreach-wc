@@ -1,0 +1,22 @@
+.cr-container p {
+	margin: 0;
+}
+.cr-container table fieldset {
+	margin: 8px 0 0 0;
+}
+.cr-container table fieldset:first-child {
+	margin: 0;
+}
+.cr-container table fieldset label {
+	font-family: SFProText-Semibold;
+	font-size: 14px;
+	color: #23282D;
+}
+.cr-container table fieldset p.description {
+	font-family: SFProText-Regular;
+	font-size: 13px;
+	font-style: normal;
+	color: #3C434A;
+	line-height: 18px;
+	margin: 0 0 0 24px;
+}

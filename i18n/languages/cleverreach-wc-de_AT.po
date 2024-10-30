@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CleverReach® WooCommerce Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-02 08:22+0000\n"
+"PO-Revision-Date: 2024-09-04 10:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch (Österreich)\n"
+"Language: de_AT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2"
+
+#: resources/views/dashboard.php:513 resources/views/dashboard.php:530
+msgid "(Last 30 days)"
+msgstr "(Letzte 30 Tage)"
+
+#: resources/views/dashboard.php:1455
+msgid "1 Hour"
+msgstr "1 Stunde"
+
+#: resources/views/dashboard.php:861
+msgid "1 hour"
+msgstr "1 Stunde"
+
+#: resources/views/dashboard.php:846
+msgid "1 minute"
+msgstr "1 Minute"
+
+#: resources/views/dashboard.php:1497
+msgid "10 Hours (Recommended)"
+msgstr "10 Stunden (empfohlen)"
+
+#: resources/views/dashboard.php:1130
+msgid "10 seconds"
+msgstr "10 Sekunden"
+
+#: resources/views/dashboard.php:871
+msgid "12 hours"
+msgstr "12 Stunden"
+
+#: resources/views/dashboard.php:856
+msgid "15 minutes"
+msgstr "15 Minuten"
+
+#: resources/views/dashboard.php:1518
+msgid "24 Hours"
+msgstr "24 Stunden"
+
+#: resources/views/dashboard.php:1476
+msgid "3 Hours"
+msgstr "3 Stunden"
+
+#: resources/views/dashboard.php:1133
+msgid "30 seconds"
+msgstr "30 Sekunden"
+
+#: resources/views/dashboard.php:866
+msgid "4 hours"
+msgstr "4 Stunden"
+
+#: resources/views/dashboard.php:851
+msgid "5 minutes"
+msgstr "5 Minuten"
+
+#: resources/views/dashboard.php:1127
+msgid "5 seconds"
+msgstr "5 Sekunden"
+
+#: resources/views/dashboard.php:80 resources/views/dashboard.php:1305
+msgid "Abandoned cart"
+msgstr "Warenkorbabbrecher"
+
+#: resources/views/dashboard.php:1291
+msgid "Abandoned cart activation failed."
+msgstr "Abandoned Cart Aktivierung fehlgeschlagen."
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:40
+msgid "Abandoned Cart Record"
+msgstr "Warenkorbabbruch-Eintrag"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:41
+msgid "Abandoned Cart Records"
+msgstr "Warenkorbabbruch-Einträge"
+
+#: resources/views/partial/abandoned-orders-link.php:14
+msgid "Abandoned orders"
+msgstr "Abgebrochene Bestellungen"
+
+#: resources/views/dashboard.php:423
+msgid "Account ID:"
+msgstr "Account ID:"
+
+#: resources/views/dashboard.php:142
+msgid "Account setup is running in the background"
+msgstr "Die Kontoeinrichtung läuft im Hintergrund"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:310
+msgid "Actions"
+msgstr "Aktionen"
+
+#: resources/views/dashboard.php:1347 resources/views/dashboard.php:1392
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: resources/views/dashboard.php:1251
+msgid "Activating Abandoned Cart feature failed."
+msgstr "Abandoned Cart Aktivierung fehlgeschlagen."
+
+#: resources/views/dashboard.php:1272
+msgid "Activating AC feature failed."
+msgstr "Deaktivierung der Warenkorbabbrecher-Funktion fehlgeschlagen."
+
+#: resources/views/dashboard.php:163
+msgid "Adding data fields, segments and tags"
+msgstr "Datenfelder, Segmente und Tags zur Empfängerliste hinzufügen"
+
+#: resources/views/initial-sync-settings.php:118
+msgid "Advanced Recipient Import Configuration"
+msgstr "Erweiterte Importeinstellungen"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:422
+msgid "All"
+msgstr "Alle"
+
+#: resources/views/dashboard.php:684
+msgid ""
+"All changes will be applied on future synchronizations. No data will be "
+"deleted on CleverReach."
+msgstr ""
+"Alle Änderungen werden für zukünftige Datenübertragungen übernommen. In "
+"CleverReach werden keine Daten gelöscht."
+
+#: resources/views/dashboard.php:199
+#, fuzzy
+msgid "An Error occured during synchronization"
+msgstr "Es ist ein Fehler aufgetreten!"
+
+#: resources/views/curl-not-enabled.php:15
+msgid "An error occurred"
+msgstr "Es ist ein Fehler aufgetreten"
+
+#: resources/views/dashboard.php:320
+msgid "Analyze your newsletter campaigns."
+msgstr "Analysieren Sie Ihre Newsletter-Kampagnen."
+
+#: resources/views/dashboard.php:784
+#, fuzzy
+#| msgid ""
+#| "and CleverReach. Changing the value means that the live sync will be done "
+#| "in the selected time frame."
+msgid ""
+"and CleverReach. Changing the value means that the live sync will be done in "
+"the selected time frame. "
+msgstr ""
+"zu gewährleisten. Eine Änderung des Wertes bedeutet, dass die Live-"
+"Synchronisation in dem gewählten Zeitrahmen durchgeführt wird."
+
+#: resources/views/partial/abandoned-cart-screen-options.php:84
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: resources/views/dashboard.php:221
+msgid "at the CleverReach® helpcenter."
+msgstr "im CleverReach®-Helpcenter."
+
+#: resources/views/autoconfigure.php:33
+msgid "Auto configuration..."
+msgstr "Autokonfiguration läuft..."
+
+#: resources/views/autoconfigure.php:46
+msgid "Autoconfiguration failed"
+msgstr "Autokonfiguration fehlgeschlagen."
+
+#: resources/views/dashboard.php:353
+msgid "Automation THEA"
+msgstr "Automation THEA"
+
+#: resources/views/initial-sync-settings.php:90
+#: resources/views/dashboard.php:732 resources/views/dashboard.php:1596
+msgid "Bought something from your store."
+msgstr "Haben etwas in Ihrem Shop gekauft."
+
+#: resources/views/initial-sync-settings.php:85
+#: resources/views/dashboard.php:727 resources/views/dashboard.php:1591
+msgid "Buyer"
+msgstr "Kaufkunden"
+
+#: resources/views/initial-sync-settings.php:224
+#: resources/views/dashboard.php:32
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: resources/views/dashboard.php:1256
+msgid "Changing Abandoned Cart timing settings failed."
+msgstr ""
+"Ändern der Zeiteinstellungen der Warenkorbabbruch-Funktion fehlgeschlagen."
+
+#: class-plugin.php:224 class-plugin.php:227 resources/views/dashboard.php:1333
+msgid "CleverReach - Abandoned Carts"
+msgstr "CleverReach - Warenkorbabbrecher"
+
+#. Author of the plugin
+msgid "CleverReach GmbH & Co. KG"
+msgstr "CleverReach GmbH & Co. KG"
+
+#. Name of the plugin
+msgid "CleverReach® WooCommerce Integration"
+msgstr "CleverReach® WooCommerce Integration"
+
+#: resources/views/partial/abandoned-cart-screen-options.php:23
+msgid "Columns"
+msgstr "Spalten"
+
+#: resources/views/initial-sync-settings.php:125
+#: resources/views/dashboard.php:894
+msgid "Configure email filter"
+msgstr "E-Mail-Blocklist-Filter konfigurieren"
+
+#: resources/views/initial-sync-settings.php:130
+#: resources/views/dashboard.php:899
+msgid "Configure filter that excludes emails from being synchronized."
+msgstr ""
+"Konfigurieren Sie einen Blocklist-Filter, der E-Mail-Adressen von der "
+"Synchronisierung ausschließt."
+
+#: resources/views/dashboard.php:27
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#. Description of the plugin
+msgid ""
+"Connect your WooCommerce store to our email software and say hello to "
+"successful and simple newsletter marketing – just like Spotify, Bugatti & "
+"DHL!"
+msgstr ""
+"Verbinden Sie Ihren WooCommerce-Shop mit unserer E-Mail-Software und "
+"begrüßen Sie erfolgreiches und einfaches Newsletter-Marketing - genau wie "
+"Spotify, Bugatti & DHL."
+
+#: resources/views/initial-sync-settings.php:101
+#: resources/views/dashboard.php:744 resources/views/dashboard.php:1610
+msgid "Contacts"
+msgstr "Sonstige Kontakte"
+
+#: Controllers/class-clever-reach-sync-settings-controller.php:234
+msgid "Contacts cannot be selected without buyers."
+msgstr "Kontakte können nicht ohne Käufer ausgewählt werden."
+
+#: resources/views/dashboard.php:217
+msgid "create a support ticket "
+msgstr "erstellen Sie bitte ein Support-Ticket"
+
+#: resources/views/dashboard.php:339
+msgid "Create and edit forms."
+msgstr "Erstellen und bearbeiten Sie Formulare."
+
+#: resources/views/dashboard.php:358
+msgid "Create automated email campaigns."
+msgstr "Erstellen Sie automatisierte E-Mail-Kampagnen"
+
+#: resources/views/dashboard.php:296
+#| msgid "Create email now"
+msgid "Create email"
+msgstr "Jetzt E-Mail erstellen"
+
+#: resources/views/dashboard.php:301
+msgid "Create your next newsletter."
+msgstr "Erstellen Sie jetzt Ihren nächsten Newsletter!"
+
+#: resources/views/dashboard.php:265
+msgid "Created recipient list: "
+msgstr "Erstellte Empfängerliste: "
+
+#: resources/views/dashboard.php:275
+msgid "Created segments: "
+msgstr "Erstellte Segmente: "
+
+#: resources/views/dashboard.php:153
+msgid "Creating recipient list and form"
+msgstr "Empfängerliste und Formular in CleverReach erstellen"
+
+#: class-plugin.php:111 resources/views/curl-not-enabled.php:21
+msgid ""
+"cURL is not installed or enabled in your PHP installation. This is required "
+"for background task to work. Please install it and then refresh this page."
+msgstr ""
+"cURL ist in Ihrer PHP-Installation nicht installiert oder aktiviert. Dies "
+"ist erforderlich, damit die Hintergrundaufgaben funktionieren. Bitte "
+"installieren Sie cURL und aktualisieren Sie dann diese Seite."
+
+#: resources/views/dashboard.php:454
+#, fuzzy
+msgid "Current Sync Status"
+msgstr "Synchronisierungsstatus"
+
+#: resources/views/dashboard.php:881
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:306
+msgid "Customer email"
+msgstr "Kunden E-Mail"
+
+#: resources/views/dashboard.php:831
+msgid "customer survey"
+msgstr "Kundenumfrage teil"
+
+#: resources/views/dashboard.php:876
+msgid "Daily"
+msgstr "Täglich"
+
+#: resources/views/dashboard.php:45
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: resources/views/dashboard.php:575
+msgid ""
+"Data will be imported in the background. You can proceed with your action."
+msgstr "Die Daten werden im Hintergrund importiert. Sie können fortfahren."
+
+#: resources/views/dashboard.php:1349 resources/views/dashboard.php:1391
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: resources/views/dashboard.php:1246
+msgid "Deactivating Abandoned Cart feature failed."
+msgstr "Deaktivierung der Warenkorbabbrecher-Funktion fehlgeschlagen."
+
+#: resources/views/dashboard.php:1166
+msgid "Default form"
+msgstr "Standard-Formular"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:255
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:256
+msgid "Delete record"
+msgstr "Eintrag löschen"
+
+#: resources/views/initial-sync-settings.php:105
+#: resources/views/dashboard.php:749 resources/views/dashboard.php:1615
+msgid "Didn't subscribe or buy."
+msgstr "Haben sich nicht für den Newsletter angemeldet oder etwas gekauft."
+
+#: resources/views/dashboard.php:436
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: resources/views/dashboard.php:1266
+msgid "Dismiss this notice."
+msgstr "Diese Nachricht ausblenden."
+
+#: resources/views/dashboard.php:1120
+msgid "Display time of newsletter checkbox caption"
+msgstr "Newsletter-Checkbox wird angezeigt für"
+
+#: resources/views/dashboard.php:994
+msgid "DOI unavailable."
+msgstr "DOI nicht verfügbar."
+
+#: resources/views/dashboard.php:1000
+msgid ""
+"Double opt-in can not be activated since your CleverReach® account is not "
+"verified yet. Please contact our support."
+msgstr ""
+"Double-Opt-In kann nicht aktiviert werden, da Ihr CleverReach® Account noch "
+"nicht verifiziert wurde. Bitte kontaktieren Sie unseren Support."
+
+#: resources/views/dashboard.php:1141
+msgid "Double opt-in feature"
+msgstr "Double opt-in"
+
+#: resources/views/dashboard.php:413
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: resources/views/dashboard.php:1403
+msgid "Edit email"
+msgstr "E-Mail bearbeiten"
+
+#: resources/views/dashboard.php:1625
+msgid "Edit in recipient settings"
+msgstr "in den Empfänger-Einstellungen bearbeiten"
+
+#: resources/views/dashboard.php:1546
+msgid "Edit recipients in the recipient settings."
+msgstr "Empfänger in den Empfänger-Einstellungen bearbeiten."
+
+#: resources/views/initial-sync-settings.php:167
+#: resources/views/dashboard.php:372 resources/views/dashboard.php:934
+msgid "Emails"
+msgstr "E-Mails"
+
+#: resources/views/dashboard.php:1054 resources/views/dashboard.php:1157
+#, fuzzy
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: resources/views/initial-sync-settings.php:173
+#: resources/views/dashboard.php:940
+msgid ""
+"Enter one or more email addresses separated by commas (max. 500 email "
+"addresses)."
+msgstr ""
+"Geben Sie eine oder mehrere durch Komma getrennte E-Mail-Adressen ein (max. "
+"500)."
+
+#: resources/views/dashboard.php:226
+msgid "Error description: "
+msgstr "Fehlerbeschreibung:"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:369
+msgid "Filter"
+msgstr "Filter"
+
+#: resources/views/initial-sync-settings.php:141
+#: resources/views/dashboard.php:908
+msgid "Filter type"
+msgstr "Filter-Typ"
+
+#: resources/views/dashboard.php:334
+msgid "Forms"
+msgstr "Formulare"
+
+#: resources/views/dashboard.php:442
+msgid "Help & Support"
+msgstr "Hilfe & Support"
+
+#: resources/views/autoconfigure.php:70
+msgid "help center article "
+msgstr "Artikel im Helpcenter an "
+
+#: resources/views/dashboard.php:823
+msgid "https://de.surveymonkey.com/r/5S2TSB3?lang=en"
+msgstr "https://de.surveymonkey.com/r/5S2TSB3"
+
+#: ViewModel/Dashboard/class-dashboard-config.php:28
+msgid "https://support.cleverreach.de/hc/en-us"
+msgstr ""
+
+#: resources/views/initial-sync-settings.php:133
+#: resources/views/dashboard.php:901
+msgid "https://support.cleverreach.de/hc/en-us/articles/14920866742418"
+msgstr "https://support.cleverreach.de/hc/de/articles/14920866742418"
+
+#: resources/views/dashboard.php:799
+msgid "https://support.cleverreach.de/hc/en-us/articles/17498752175378"
+msgstr "https://support.cleverreach.de/hc/de/articles/17498752175378"
+
+#: resources/views/initial-sync-settings.php:45
+#: resources/views/dashboard.php:670
+msgid "https://support.cleverreach.de/hc/en-us/articles/360013571280"
+msgstr "https://support.cleverreach.de/hc/de/articles/360013571280"
+
+#: resources/views/dashboard.php:1022
+msgid "https://support.cleverreach.de/hc/en-us/articles/360018833540"
+msgstr "https://support.cleverreach.de/hc/de/articles/360018833540"
+
+#: resources/views/autoconfigure.php:61
+msgid "https://support.cleverreach.de/hc/en-us/articles/4408432814866"
+msgstr "https://support.cleverreach.de/hc/de/articles/4408432814866"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/cleverreach-wc/"
+msgstr "https://wordpress.org/plugins/cleverreach-wc/"
+
+#. Author URI of the plugin
+msgid "https://www.cleverreach.com"
+msgstr "https://www.cleverreach.com"
+
+#: resources/views/dashboard.php:384
+msgid "https://www.cleverreach.com/en/tag/onlineshops/"
+msgstr "https://www.cleverreach.com/de/tag/online-shop/"
+
+#: resources/views/dashboard.php:1421
+msgid ""
+"If the customer abandons their checkout, send them an email reminder to "
+"complete their order after"
+msgstr ""
+"Wenn der Kunde seinen Warenkorb verlässt, können Sie ihm eine E-Mail-"
+"Erinnerung senden, damit er seine Bestellung abschließt."
+
+#: resources/views/dashboard.php:557
+msgid ""
+"If your account is disconnected no synchronization between WooCommerce and "
+"CleverReach® is\n"
+"                    possible!"
+msgstr ""
+"Wenn Ihr Konto nicht verbunden ist, ist keine Synchronisation zwischen "
+"WooCommerce und CleverReach® möglich!"
+
+#: resources/views/dashboard.php:841
+msgid "Immediate"
+msgstr "Sofort"
+
+#: resources/views/initial-sync-settings.php:29
+msgid "Import Receivers"
+msgstr "Empfänger importieren"
+
+#: resources/views/initial-sync-settings.php:214
+msgid "Import receivers"
+msgstr "Empfänger importieren"
+
+#: resources/views/dashboard.php:173
+msgid "Importing recipients"
+msgstr "Empfänger importieren"
+
+#: resources/views/wc-not-active.php:21
+msgid ""
+"It seems that WooCommerce is not activated. This plugin fully depends on it. "
+"Please install and activate WooCommerce for this site in order to use "
+"CleverReach® integration."
+msgstr ""
+"WooCommerce scheint nicht aktiviert zu sein. Dies ist jedoch notwendig, "
+"damit das Plugin funktioniert. Bitte installieren und aktivieren Sie "
+"WooCommerce für diese Seite, um die CleverReach® Integration zu benutzen."
+
+#: resources/views/dashboard.php:459
+msgid "Last synchronization:"
+msgstr "Letzte Synchronisierung:"
+
+#: resources/views/dashboard.php:1030
+msgid "Learn how to use the newsletter checkbox."
+msgstr "Erfahren Sie, wie Sie die Newsletter Checkbox verwenden."
+
+#: resources/views/initial-sync-settings.php:54
+msgid "Learn more about data protection"
+msgstr "Erfahren Sie mehr über Datenschutz"
+
+#: resources/views/dashboard.php:678
+msgid "Learn more about data protection."
+msgstr "Erfahren Sie mehr über Datenschutz."
+
+#: resources/views/initial-sync-settings.php:133
+#: resources/views/dashboard.php:901
+msgid "Learn more about email blocklist filter."
+msgstr "Erfahren Sie mehr über E-Mail-Blocklistenfilter."
+
+#: resources/views/dashboard.php:807
+msgid "Learn more about the sync interval settings"
+msgstr ""
+"Erfahren Sie mehr über die Einstellungen des Synchronisationsintervalls"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:309
+msgid "Message"
+msgstr "Nachricht"
+
+#: resources/views/dashboard.php:1093
+msgid "message caption"
+msgstr ""
+
+#: resources/views/dashboard.php:1038 resources/views/dashboard.php:1089
+msgid "Newsletter checkbox"
+msgstr "Newsletter-Checkbox"
+
+#: resources/views/dashboard.php:1063
+msgid "Newsletter checkbox caption"
+msgstr "Newsletter-Checkbox Titel"
+
+#: resources/views/dashboard.php:982
+msgid "Newsletter Sign-Up"
+msgstr "Newsletter Anmeldung"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:182
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:184
+msgid "Not recovered"
+msgstr "Nicht wiederhergestellt"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:219
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:221
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:430
+msgid "Not sent"
+msgstr "Nicht gesendet"
+
+#: resources/views/dashboard.php:792
+msgid "Note: Automation emails with triggers are also delayed in that case."
+msgstr ""
+"Hinweis: Automatisierte E-Mails mit Triggern werden in diesem Fall ebenfalls "
+"verzögert."
+
+#: resources/views/partial/abandoned-cart-screen-options.php:64
+msgid "Number of items per page:"
+msgstr "Anzahl der Artikel pro Seite:"
+
+#: resources/views/dashboard.php:377
+msgid "Overview of your emails."
+msgstr "Übersicht Ihrer E-Mails."
+
+#: resources/views/partial/abandoned-cart-screen-options.php:59
+msgid "Pagination"
+msgstr "Seitenumbruch"
+
+#: resources/views/initial-sync-settings.php:181
+#: resources/views/dashboard.php:948
+msgid "Pattern"
+msgstr "Muster"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:209
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:211
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:428
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: resources/views/autoconfigure.php:52
+msgid "Please have a look at the "
+msgstr "Bitte sehen Sie sich den "
+
+#: class-plugin.php:124
+msgid "Please install and activate WooCommerce."
+msgstr "Bitte installieren und aktivieren Sie WooCommerce."
+
+#: resources/views/dashboard.php:391
+msgid "PUSH///"
+msgstr "PUSH///"
+
+#: resources/views/dashboard.php:628
+msgid ""
+"Receivers will be synced in the background. You can proceed with your action."
+msgstr "Empfänger werden im Hintergrund synchronisiert. Sie können fortfahren."
+
+#: resources/views/dashboard.php:497
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:188
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:190
+msgid "Recovered"
+msgstr "Wiederhergestellt"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:307
+msgid "Recovery email status"
+msgstr "Status Wiederherstellungs-E-Mail"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:308
+msgid "Recovery status"
+msgstr "Wiederherstellungs-Status"
+
+#: resources/views/dashboard.php:976
+msgid "Reforce sync"
+msgstr "Synchronisierung erzwingen"
+
+#: resources/views/dashboard.php:315
+msgid "Reports"
+msgstr "Reports"
+
+#: resources/views/autoconfigure.php:89
+msgid "Retry auto configuration now"
+msgstr "Autokonfiguration wiederholen"
+
+#: resources/views/dashboard.php:236
+#| msgid "Retry synchronization now"
+msgid "Retry Synchronization"
+msgstr "Wiederholen Sie die Datenübertragung"
+
+#: resources/views/dashboard.php:1200 resources/views/dashboard.php:1632
+#, fuzzy
+msgid "Save changes"
+msgstr "Speichern"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:363
+msgid "Scheduled Date From"
+msgstr "Geplantes Datum von"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:366
+msgid "Scheduled Date To"
+msgstr "Geplantes Datum bis"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:303
+msgid "Scheduled time"
+msgstr "Geplante Zeit"
+
+#: resources/views/partial/abandoned-cart-screen-options.php:99
+msgid "Screen Options"
+msgstr "Bildschirm-Optionen"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:342
+msgid "Search"
+msgstr "Suche"
+
+#: resources/views/dashboard.php:641
+msgid "Secondary synchronization failed."
+msgstr "Sekundäre Synchronisation fehlgeschlagen."
+
+#: resources/views/dashboard.php:622
+msgid "Secondary synchronization in progress."
+msgstr "Sekundäre Synchronisation läuft."
+
+#: resources/views/initial-sync-settings.php:35
+msgid ""
+"Select receivers to import. Observe the guidelines of the General Data "
+"Protection Regulation."
+msgstr ""
+"Wählen Sie die Empfänger für den Import aus. Bitte beachten Sie die "
+"Richtlinien der Datenschutz-Grundverordnung (DSGVO)."
+
+#: resources/views/dashboard.php:1311
+msgid "Send automated emails to customers, who abandoned their checkout."
+msgstr ""
+"Versenden Sie automatisierte E-Mails an Kunden, die Ihren Kaufvorgang "
+"abgebrochen haben."
+
+#: resources/views/dashboard.php:1434
+msgid "Send email after"
+msgstr "E-Mail senden nach"
+
+#: resources/views/dashboard.php:696 resources/views/dashboard.php:1558
+msgid "Send emails to"
+msgstr "Sende E-Mails an"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:248
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:249
+msgid "Send recovery email now"
+msgstr "Wiederherstellungs-E-Mail jetzt senden"
+
+#: resources/views/dashboard.php:1536
+msgid "Send Settings"
+msgstr "Versand Einstellungen"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:214
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:216
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:426
+msgid "Sending"
+msgstr "Wird versendet"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:204
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:206
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:424
+msgid "Sent"
+msgstr "Versendet"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:304
+msgid "Sent time"
+msgstr "Versandzeit"
+
+#: resources/views/dashboard.php:64
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: resources/views/dashboard.php:249
+msgid "Setup was successful"
+msgstr "Setup erfolgreich"
+
+#: resources/views/dashboard.php:1081
+#: Components/Services/BusinessLogic/Configuration/class-config-service.php:253
+msgid "Sign up for our newsletter"
+msgstr "Für unseren Newsletter anmelden"
+
+#: resources/views/dashboard.php:1072
+msgid "Sign up for our newsletter!"
+msgstr "Für unseren Newsletter anmelden!"
+
+#: resources/views/refresh.php:30
+msgid "Something went wrong. Please reconnect your account to use the app."
+msgstr ""
+"Etwas ist schiefgelaufen. Bitte verbinden Sie Ihr Konto erneut, um die Shop-"
+"App zu verwenden."
+
+#: resources/views/dashboard.php:646 resources/views/dashboard.php:1277
+#: resources/views/dashboard.php:1296
+msgid "Something went wrong. Please try again."
+msgstr "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+
+#: resources/views/initial-sync-settings.php:150
+#: resources/views/dashboard.php:917
+msgid "Static"
+msgstr "Statisch"
+
+#: Controllers/class-clever-reach-sync-settings-controller.php:76
+#, fuzzy
+#| msgid ""
+#| "Static filter is not valid. Please enter up to 500 coma-separated emails"
+msgid ""
+"Static filter is not valid. Please enter up to 500 coma-separated emails."
+msgstr ""
+"Statischer Filter ist nicht gültig. Bitte geben Sie bis zu 500 durch Kommata "
+"getrennte E-Mails ein"
+
+#: resources/views/dashboard.php:509
+msgid "Subscribed"
+msgstr "Neue Empfänger"
+
+#: resources/views/initial-sync-settings.php:74
+#: resources/views/dashboard.php:715 resources/views/dashboard.php:1577
+#| msgid "Subscribe to newsletter"
+msgid "Subscribed to your newsletter."
+msgstr "Haben sich zum Newsletter angemeldet."
+
+#: resources/views/initial-sync-settings.php:69
+#: resources/views/dashboard.php:710 resources/views/dashboard.php:1572
+msgid "Subscriber"
+msgstr "Newsletter-Empfänger"
+
+#: Controllers/class-clever-reach-sync-settings-controller.php:227
+msgid "Subscribers must be selected."
+msgstr "Empfänger müssen ausgewählt sein."
+
+#: resources/views/dashboard.php:759
+msgid "Synchronization interval"
+msgstr "Synchronisationsintervall"
+
+#: resources/views/dashboard.php:654
+msgid "Synchronization Settings"
+msgstr "Synchronisierungs Einstellungen"
+
+#: resources/views/dashboard.php:255
+msgid "Synchronized recipients: "
+msgstr "Synchronisierte Empfänger: "
+
+#: resources/views/dashboard.php:775
+#, fuzzy
+#| msgid ""
+#| "The default setting is always immediate to ensure the live "
+#| "synchronization between your system"
+msgid ""
+"The default setting is always immediate to ensure the live synchronization "
+"between your system "
+msgstr ""
+"Die Standardeinstellung ist immer sofort, um die Live-Synchronisation "
+"zwischen Ihrem System und CleverReach"
+
+#: resources/views/dashboard.php:660
+msgid ""
+"The following recipient list will be synced. Observe the guidelines of the "
+"General Data Protection Regulation."
+msgstr ""
+"Die nachfolgenden Empfängergruppen werden synchronisiert. Bitte beachten Sie "
+"die Richtlinien der Datenschutz-Grundverordnung (DSGVO)."
+
+#: resources/views/welcome.php:23
+msgid ""
+"The sync is not working because the initial connected group is deleted in "
+"CleverReach. Please reconnect your account to use the app."
+msgstr ""
+"Die Synchronisierung funktioniert nicht, weil die ursprünglich verbundene "
+"Gruppe in CleverReach gelöscht wurde. Bitte verbinden Sie Ihr Konto erneut, "
+"um die App zu nutzen."
+
+#: resources/views/dashboard.php:1357
+msgid "THEA Automation"
+msgstr "THEA Automation"
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:87
+msgid "There are no stored abandoned cart records"
+msgstr "Es gibt keine gespeicherten Warenkorbabbruch-Einträge"
+
+#: resources/views/dashboard.php:1411
+msgid "Timing Settings"
+msgstr "Timing Einstellungen"
+
+#: resources/views/dashboard.php:396
+msgid "Tips and tricks from our blog."
+msgstr "Tipps und Tricks aus unserem Blog."
+
+#: Components/Handlers/class-product-search-handler.php:84
+msgid "Title, Content or SKU"
+msgstr ""
+
+#: resources/views/autoconfigure.php:79
+msgid "to check out what causes the issue."
+msgstr "um herauszufinden, was das Problem verursacht."
+
+#: resources/views/dashboard.php:1367
+msgid "To send emails this option has to be enabled!"
+msgstr "Um E-Mails zu versenden, muss diese Option aktiviert sein!"
+
+#: resources/views/dashboard.php:1012
+msgid ""
+"To sign up for your newsletter, you have to enable the newsletter checkbox. "
+"You can decide to use the double opt-in feature."
+msgstr ""
+"Damit sich Empfänger zu Ihrem Newsletter anmelden können, aktivieren Sie "
+"bitte die Newsletter Checkbox. Sie können das Double-Opt-in Feature wählen."
+
+#: ViewModel/AbandonedCartOverview/class-abandoned-cart-records-list.php:305
+msgid "Total"
+msgstr "Gesamt"
+
+#: resources/views/partial/checkout-form-newsletter-checkbox.php:71
+#: resources/views/partial/necessary-front-data.php:90
+msgid "Undo"
+msgstr "Rückgängig machen"
+
+#: resources/views/dashboard.php:526
+msgid "Unsubscribed"
+msgstr "Abgemeldet"
+
+#: resources/views/dashboard.php:485
+msgid "Upgrade Plan"
+msgstr "Tarif aktualisieren"
+
+#: resources/views/initial-sync-settings.php:187
+#: resources/views/dashboard.php:954
+msgid ""
+"Use * for any sequence of characters and ? for any single character. E.g. "
+"*example.com blocks all emails from example.com; john?@example.com blocks "
+"john1@example.com, not john12@example.com."
+msgstr ""
+"Verwenden Sie * für eine beliebige Folge von Zeichen und ? für jedes "
+"einzelne Zeichen. Z.B. *example.com blockiert alle E-Mails von example.com; "
+"john?@example.com blockiert john1@example.com, nicht john12@example.com."
+
+#: resources/views/initial-sync-settings.php:155
+#: resources/views/dashboard.php:922
+msgid "Wildcard"
+msgstr "Platzhalter"
+
+#: Controllers/class-clever-reach-sync-settings-controller.php:83
+msgid ""
+"Wildcard filter pattern is not valid. Please use * for any sequence of "
+"characters and ? for any single character."
+msgstr ""
+"Wildcard-Filtermuster ist nicht gültig. Bitte verwenden Sie * für eine "
+"beliebige Folge von Zeichen und ? für ein einzelnes Zeichen."
+
+#: resources/views/wc-not-active.php:15
+msgid "WooCommerce not detected"
+msgstr "WooCommerce nicht erkannt"
+
+#: Controllers/class-clever-reach-auth-controller.php:121
+msgid "Wrong parameters. Code not set."
+msgstr "Falsche Parameter. Code nicht gesetzt."
+
+#: resources/views/dashboard.php:551
+msgid "You are about to disconnect your CleverReach® account!"
+msgstr ""
+"Sie sind dabei, die Verbindung zu Ihrem CleverReach®-Account zu trennen!"
+
+#: resources/views/dashboard.php:765
+msgid ""
+"You can choose the synchronization interval between immediate and a maximum "
+"of 24 hours."
+msgstr ""
+"Sie können das Synchronisierungsintervall zwischen sofort und maximal 24 "
+"Stunden wählen."
+
+#: resources/views/dashboard.php:209
+msgid "You can retry now. If the problem occurs again please "
+msgstr ""
+"Sie können es jetzt erneut versuchen. Sollte das Problem erneut auftreten,"
+
+#: resources/views/dashboard.php:1103 resources/views/dashboard.php:1112
+#: Components/Services/BusinessLogic/Configuration/class-config-service.php:280
+msgid "You have successfully subscribed"
+msgstr "Sie haben sich erfolgreich angemeldet"
+
+#: resources/views/dashboard.php:1321
+msgid "You will find an overview in the menu at WooCommerce > Reports > "
+msgstr "Sie finden eine Übersicht im Menü unter WooCommerce > Berichte >"
+
+#: resources/views/dashboard.php:406
+msgid "Your CleverReach-Account"
+msgstr "Ihr CleverReach-Account"
+
+#: resources/views/refresh.php:24
+msgid "Your CleverReach® account is disconnected"
+msgstr "Ihr CleverReach®-Account ist nicht verbunden"
+
+#: resources/views/dashboard.php:469
+msgid "Your current rate:"
+msgstr "Ihr aktueller Tarif:"
+
+#: resources/views/dashboard.php:814
+msgid "Your opinion matters: Please take part in our short "
+msgstr "Ihre Meinung zählt: Bitte nehmen Sie an unserer kurzen "
